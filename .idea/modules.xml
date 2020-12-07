@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LADM_U3_Ejercicio1_SQLiteBasic.iml" filepath="$PROJECT_DIR$/.idea/modules/LADM_U3_Ejercicio1_SQLiteBasic.iml" group="LADM_U3_Ejercicio1_SQLiteBasic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="LADM_U3_Ejercicio1_SQLiteBasic/app" />
+    </modules>
+  </component>
+</project>
